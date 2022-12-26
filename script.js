@@ -10,7 +10,7 @@ function searchRecipes(e) {
   const query = document.getElementById('query').value;
 
   // Make API request to Spoonacular recipe database
-  fetch(`https://api.spoonacular.com/recipes/search?apiKey=931e88230086426085c5b9b61e48767e&query=${query}`)
+  fetch(`https://api.spoonacular.com/recipes/complexSearch?apiKey=931e88230086426085c5b9b61e48767e&query=${query}`)
     .then(response => response.json())
     .then(data => {
       // Extract relevant data from response
