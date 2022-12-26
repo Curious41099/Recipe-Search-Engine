@@ -20,5 +20,5 @@ To save a recipe, click the "Save Recipe" button on the recipe detail page. You 
 Creating a Shopping List
 To create a shopping list from the ingredients in a recipe, click the "Add to Shopping List" button on the recipe detail page. You can view and edit your shopping list by clicking the "Shopping List" tab on the navigation bar.
 
-Disclaimer
+Disclaimer:
 Please note that the Recipe Search Engine is for informational purposes only and should not be used as a substitute for professional medical or nutritional advice. Always consult a qualified healthcare provider before making any changes to your diet.
